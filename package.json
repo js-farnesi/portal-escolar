@@ -1,0 +1,26 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "Portal escolar para professores controlar as avaliações aplicadas aos alunos",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "TDD",
+    "SOLID",
+    "CLEAN-CODE"
+  ],
+  "author": "Alessandro",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "husky": "^4.3.0",
+    "jest": "^26.4.2"
+  }
+}
